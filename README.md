@@ -5,8 +5,8 @@ Medora is an intelligent clinic appointment automation system that simplifies sc
 
 Follow the steps below to build Medora:
 
-1. [Set Up Twilio Free Trial Account and Obtain a Phone Number](docs/01-setup-twilio.md)
-2. [Integrate Twilio with Omnidimension Voice Assistant](docs/02-integrate-voice-assistant.md)
+1. [Set Up Twilio Free Trial Account and Obtain a Phone Number](docs/01.Twilio_Setup.md)
+2. [Build Omnidimension Voice Assistant and Integrate Twilio](docs/02.Omnidimension_Setup.md)
 3. [Develop Backend with FastAPI](docs/03-develop-backend.md)
 4. [Integrate OpenAI for Intelligent Responses](docs/04-integrate-openai.md)
 5. [Deploy Medora to Production](docs/05-deploy-production.md)
